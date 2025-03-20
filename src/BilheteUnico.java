@@ -26,6 +26,7 @@ public class BilheteUnico {
         return saldo;
     }
 
+
     //método para passar na catraca
      public String passarCatraca(){
         double debito=TARIFA;
